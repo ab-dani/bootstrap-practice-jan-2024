@@ -23,8 +23,8 @@ It contains one page:
 ## Roadmap
 
 - [x] buttons.html - the HTML page to work on buttons that respond with JavaScript to clicks
-- [ ] buttons.js - contains the actual code to make the buttons live
-- [ ] buttons.css - contains classes to style the buttons
+- [ X] buttons.js - contains the actual code to make the buttons live
+- [X ] buttons.css - contains classes to style the buttons
 
 
 ## Contact
