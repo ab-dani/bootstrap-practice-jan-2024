@@ -1,0 +1,16 @@
+#weekNum {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: x-large;
+  color: #6e4ae9;
+}
+
+.col {
+  color: #bc74c3;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-weight: 400;
+}

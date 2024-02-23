@@ -1,5 +1,30 @@
-#goodButton {
+.thebuttons {
+  background-color: #34cd43;
 }
 
-#badButton {
+#goodButton {
+  background-color: #e514e2;
+}
+
+#goodButton {
+  background-color: #e514e2;
+}
+
+#badButton2 {
+  background-color: #5b9e70;
+}
+
+#goodButton2 {
+  background-color: #19c150;
+}
+
+#fineButton {
+  background-color: #a67283;
+}
+
+.hidden-div {
+  display: none;
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
 }
